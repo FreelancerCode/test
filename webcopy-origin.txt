@@ -1,0 +1,192 @@
+Uri: https://courses.marketclever.ru/pl/lite/widget/script?id=825161
+File Name: E:\[АРХИВ]-РАБОЧИЙ-SG1000\CPA\Copy\marketclever.ru\pl\lite\widget\script
+Content Type: text/javascript
+
+Uri: https://courses.marketclever.ru/pl/lite/widget/script?id=830015
+File Name: E:\[АРХИВ]-РАБОЧИЙ-SG1000\CPA\Copy\marketclever.ru\pl\lite\widget\script-1
+Content Type: text/javascript
+
+Uri: https://courses.marketclever.ru/pl/lite/widget/script?id=830017
+File Name: E:\[АРХИВ]-РАБОЧИЙ-SG1000\CPA\Copy\marketclever.ru\pl\lite\widget\script-2
+Content Type: text/javascript
+
+Uri: https://marketclever.ru/tilda-blocks-page33018637.min.css?t=1677168964
+File Name: E:\[АРХИВ]-РАБОЧИЙ-SG1000\CPA\Copy\marketclever.ru\tilda-blocks-page33018637.min.css
+Content Type: text/css
+
+Uri: https://marketclever.ru/tilda-blocks-page33018637.min.js?t=1677168964
+File Name: E:\[АРХИВ]-РАБОЧИЙ-SG1000\CPA\Copy\marketclever.ru\tilda-blocks-page33018637.min.js
+Content Type: application/javascript
+
+Uri: https://marketclever.ru/wb/webinar/am
+File Name: E:\[АРХИВ]-РАБОЧИЙ-SG1000\CPA\Copy\marketclever.ru\wb\webinar\am.html
+Content Type: text/html
+
+Uri: https://megatimer.ru/get/12d28cc21cfbaf98f99e6dff34e5d241.js
+File Name: E:\[АРХИВ]-РАБОЧИЙ-SG1000\CPA\Copy\marketclever.ru\get\12d28cc21cfbaf98f99e6dff34e5d241.js
+Content Type: application/javascript
+
+Uri: https://megatimer.ru/get/99971fe43af92030809e229ace7337e6.js
+File Name: E:\[АРХИВ]-РАБОЧИЙ-SG1000\CPA\Copy\marketclever.ru\get\99971fe43af92030809e229ace7337e6.js
+Content Type: application/javascript
+
+Uri: https://neo.tildacdn.com/js/tilda-fallback-1.0.min.js
+File Name: E:\[АРХИВ]-РАБОЧИЙ-SG1000\CPA\Copy\marketclever.ru\js\tilda-fallback-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/css/tilda-animation-2.0.min.css
+File Name: E:\[АРХИВ]-РАБОЧИЙ-SG1000\CPA\Copy\marketclever.ru\css\tilda-animation-2.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-grid-3.0.min.css
+File Name: E:\[АРХИВ]-РАБОЧИЙ-SG1000\CPA\Copy\marketclever.ru\css\tilda-grid-3.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/css/tilda-popup-1.1.min.css
+File Name: E:\[АРХИВ]-РАБОЧИЙ-SG1000\CPA\Copy\marketclever.ru\css\tilda-popup-1.1.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.com/js/jquery-1.10.2.min.js
+File Name: E:\[АРХИВ]-РАБОЧИЙ-SG1000\CPA\Copy\marketclever.ru\js\jquery-1.10.2.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/lazyload-1.3.min.js
+File Name: E:\[АРХИВ]-РАБОЧИЙ-SG1000\CPA\Copy\marketclever.ru\js\lazyload-1.3.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-animation-2.0.min.js
+File Name: E:\[АРХИВ]-РАБОЧИЙ-SG1000\CPA\Copy\marketclever.ru\js\tilda-animation-2.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-animation-sbs-1.0.min.js
+File Name: E:\[АРХИВ]-РАБОЧИЙ-SG1000\CPA\Copy\marketclever.ru\js\tilda-animation-sbs-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-events-1.0.min.js
+File Name: E:\[АРХИВ]-РАБОЧИЙ-SG1000\CPA\Copy\marketclever.ru\js\tilda-events-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-fonts.min.js
+File Name: E:\[АРХИВ]-РАБОЧИЙ-SG1000\CPA\Copy\marketclever.ru\js\tilda-fonts.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-popup-1.0.min.js
+File Name: E:\[АРХИВ]-РАБОЧИЙ-SG1000\CPA\Copy\marketclever.ru\js\tilda-popup-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-scripts-3.0.min.js
+File Name: E:\[АРХИВ]-РАБОЧИЙ-SG1000\CPA\Copy\marketclever.ru\js\tilda-scripts-3.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zero-1.1.min.js
+File Name: E:\[АРХИВ]-РАБОЧИЙ-SG1000\CPA\Copy\marketclever.ru\js\tilda-zero-1.1.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zero-scale-1.0.min.js
+File Name: E:\[АРХИВ]-РАБОЧИЙ-SG1000\CPA\Copy\marketclever.ru\js\tilda-zero-scale-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/js/tilda-zero-tooltip-1.0.min.js
+File Name: E:\[АРХИВ]-РАБОЧИЙ-SG1000\CPA\Copy\marketclever.ru\js\tilda-zero-tooltip-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/tild3165-3833-4739-a466-613738363663/-/resize/20x/photo_2021-03-25_12-.jpg
+File Name: E:\[АРХИВ]-РАБОЧИЙ-SG1000\CPA\Copy\marketclever.ru\tild3165-3833-4739-a466-613738363663\-\resize\20x\photo_2021-03-25_12-.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3262-3539-4437-b135-653738326138/-/resize/20x/1657719188715.png
+File Name: E:\[АРХИВ]-РАБОЧИЙ-SG1000\CPA\Copy\marketclever.ru\tild3262-3539-4437-b135-653738326138\-\resize\20x\1657719188715.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3332-3731-4137-b161-633862303234/-/resize/20x/1657718994891.png
+File Name: E:\[АРХИВ]-РАБОЧИЙ-SG1000\CPA\Copy\marketclever.ru\tild3332-3731-4137-b161-633862303234\-\resize\20x\1657718994891.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3333-3236-4965-a437-656336356534/-/resize/20x/photo_2021-03-25_12-.jpg
+File Name: E:\[АРХИВ]-РАБОЧИЙ-SG1000\CPA\Copy\marketclever.ru\tild3333-3236-4965-a437-656336356534\-\resize\20x\photo_2021-03-25_12-.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.com/tild3361-6161-4864-b865-613734333333/-/resize/20x/1657716393335.png
+File Name: E:\[АРХИВ]-РАБОЧИЙ-SG1000\CPA\Copy\marketclever.ru\tild3361-6161-4864-b865-613734333333\-\resize\20x\1657716393335.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3432-6334-4266-a338-336361316466/-/resize/20x/1657718924264.png
+File Name: E:\[АРХИВ]-РАБОЧИЙ-SG1000\CPA\Copy\marketclever.ru\tild3432-6334-4266-a338-336361316466\-\resize\20x\1657718924264.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3461-6264-4934-b265-316265353965/-/resize/20x/1657719046788.png
+File Name: E:\[АРХИВ]-РАБОЧИЙ-SG1000\CPA\Copy\marketclever.ru\tild3461-6264-4934-b265-316265353965\-\resize\20x\1657719046788.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3566-3733-4832-a137-323765626461/-/resize/20x/videoplayback-online.gif
+File Name: E:\[АРХИВ]-РАБОЧИЙ-SG1000\CPA\Copy\marketclever.ru\tild3566-3733-4832-a137-323765626461\-\resize\20x\videoplayback-online.gif
+Content Type: image/gif
+
+Uri: https://static.tildacdn.com/tild3636-6165-4637-b230-346236643233/-/resize/20x/1657719131691.png
+File Name: E:\[АРХИВ]-РАБОЧИЙ-SG1000\CPA\Copy\marketclever.ru\tild3636-6165-4637-b230-346236643233\-\resize\20x\1657719131691.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3730-3161-4065-a133-653761633264/-/resize/20x/1657719341469.png
+File Name: E:\[АРХИВ]-РАБОЧИЙ-SG1000\CPA\Copy\marketclever.ru\tild3730-3161-4065-a133-653761633264\-\resize\20x\1657719341469.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3766-6162-4530-b532-386638353131/-/resize/20x/1657719772435.png
+File Name: E:\[АРХИВ]-РАБОЧИЙ-SG1000\CPA\Copy\marketclever.ru\tild3766-6162-4530-b532-386638353131\-\resize\20x\1657719772435.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild3864-3961-4263-b566-383161333337/-/resize/20x/1657717000877.png
+File Name: E:\[АРХИВ]-РАБОЧИЙ-SG1000\CPA\Copy\marketclever.ru\tild3864-3961-4263-b566-383161333337\-\resize\20x\1657717000877.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6166-6536-4431-a530-366531333132/-/resize/20x/1657716648219.png
+File Name: E:\[АРХИВ]-РАБОЧИЙ-SG1000\CPA\Copy\marketclever.ru\tild6166-6536-4431-a530-366531333132\-\resize\20x\1657716648219.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6233-6437-4438-a436-636133663565/-/resize/20x/1657719944504.png
+File Name: E:\[АРХИВ]-РАБОЧИЙ-SG1000\CPA\Copy\marketclever.ru\tild6233-6437-4438-a436-636133663565\-\resize\20x\1657719944504.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6239-6132-4663-b163-323238656532/-/resize/20x/1657720095298.png
+File Name: E:\[АРХИВ]-РАБОЧИЙ-SG1000\CPA\Copy\marketclever.ru\tild6239-6132-4663-b163-323238656532\-\resize\20x\1657720095298.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6262-3264-4032-b034-336138616430/-/resize/20x/1657720050083.png
+File Name: E:\[АРХИВ]-РАБОЧИЙ-SG1000\CPA\Copy\marketclever.ru\tild6262-3264-4032-b034-336138616430\-\resize\20x\1657720050083.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6335-3032-4134-a637-326339653863/-/resize/20x/1657719839613.png
+File Name: E:\[АРХИВ]-РАБОЧИЙ-SG1000\CPA\Copy\marketclever.ru\tild6335-3032-4134-a637-326339653863\-\resize\20x\1657719839613.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6363-6131-4233-b163-316462366334/-/resize/20x/1657716834571.png
+File Name: E:\[АРХИВ]-РАБОЧИЙ-SG1000\CPA\Copy\marketclever.ru\tild6363-6131-4233-b163-316462366334\-\resize\20x\1657716834571.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6366-3264-4535-b532-303937636630/-/resize/20x/1657719216077.png
+File Name: E:\[АРХИВ]-РАБОЧИЙ-SG1000\CPA\Copy\marketclever.ru\tild6366-3264-4535-b532-303937636630\-\resize\20x\1657719216077.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6438-3539-4161-a166-643838353966/-/resize/20x/1657719083887.png
+File Name: E:\[АРХИВ]-РАБОЧИЙ-SG1000\CPA\Copy\marketclever.ru\tild6438-3539-4161-a166-643838353966\-\resize\20x\1657719083887.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6561-3565-4136-b837-343461393436/_4.ico
+File Name: E:\[АРХИВ]-РАБОЧИЙ-SG1000\CPA\Copy\marketclever.ru\tild6561-3565-4136-b837-343461393436\_4.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://static.tildacdn.com/tild6565-3865-4630-b762-626230366631/-/resize/20x/1657719907517.png
+File Name: E:\[АРХИВ]-РАБОЧИЙ-SG1000\CPA\Copy\marketclever.ru\tild6565-3865-4630-b762-626230366631\-\resize\20x\1657719907517.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6630-3562-4634-a664-356432613035/-/resize/20x/1657719290709.png
+File Name: E:\[АРХИВ]-РАБОЧИЙ-SG1000\CPA\Copy\marketclever.ru\tild6630-3562-4634-a664-356432613035\-\resize\20x\1657719290709.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6633-6336-4632-a136-653634656464/-/resize/20x/_1.png
+File Name: E:\[АРХИВ]-РАБОЧИЙ-SG1000\CPA\Copy\marketclever.ru\tild6633-6336-4632-a136-653634656464\-\resize\20x\_1.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.com/tild6638-3762-4661-a162-663161663266/-/resize/20x/1657716727107.png
+File Name: E:\[АРХИВ]-РАБОЧИЙ-SG1000\CPA\Copy\marketclever.ru\tild6638-3762-4661-a162-663161663266\-\resize\20x\1657716727107.png
+Content Type: image/png
+
